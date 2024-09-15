@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+OmKotPractice/Scripts/
+OmKotPractice/Include/
+OmKotPractice/Lib/
+OmKotPractice/pyvenv.cfg
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+db.sqlite3
+
+# Media files
+media/
+
+# Static files
+staticfiles/
+
+# Local environment variables
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
